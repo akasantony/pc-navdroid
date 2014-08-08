@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PCNavdroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="left_click">Left Click</string>
+    <string name="right_click">Right Click</string>
+    <string name="touch_pad_txt">Touch Pad</string>
+
+</resources>
